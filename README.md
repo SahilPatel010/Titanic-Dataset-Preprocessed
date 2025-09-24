@@ -32,7 +32,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+git clone https://github.com/SahilPatel010/Titanic-Dataset-Preprocessed
 Open the Jupyter Notebook:
 
 Navigate to the project folder and open Titanic-Preprocessing.ipynb to see the full, step-by-step Python code.
